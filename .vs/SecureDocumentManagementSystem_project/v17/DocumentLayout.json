@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|c:\\users\\af555\\onedrive\\desktop\\c#\\securedocumentmanagementsystem_project\\securedocumentmanagementsystem_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\models\\shareddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\models\\shareddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\documents\\sharedwithme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\documents\\sharedwithme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\documents\\mydocuments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\documents\\mydocuments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\documents\\share.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\documents\\share.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\securedocumentmanagementsystem_project\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F89583-B900-4947-B621-67D8D317944D}|SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project.csproj|solutionrelative:securedocumentmanagementsystem_project\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:21:10.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:21:09.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:20:41.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:19:44.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Models\\User.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:18:19.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:15:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:52:59.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SharedWithMe.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Documents\\SharedWithMe.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Documents\\SharedWithMe.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Documents\\SharedWithMe.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Documents\\SharedWithMe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T00:35:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T00:11:44.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T23:01:20.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Controllers\\DocumentsController.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:43:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDocuments.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Documents\\MyDocuments.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Documents\\MyDocuments.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Documents\\MyDocuments.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Documents\\MyDocuments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T00:23:14.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedDocument.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Models\\SharedDocument.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Models\\SharedDocument.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Models\\SharedDocument.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Models\\SharedDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:51:23.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Models\\Document.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Models\\Document.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:20:09.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:35:29.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Share.cshtml",
+              "DocumentMoniker": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Documents\\Share.cshtml",
+              "RelativeDocumentMoniker": "SecureDocumentManagementSystem_project\\Views\\Documents\\Share.cshtml",
+              "ToolTip": "C:\\Users\\af555\\OneDrive\\Desktop\\c#\\SecureDocumentManagementSystem_project\\SecureDocumentManagementSystem_project\\Views\\Documents\\Share.cshtml",
+              "RelativeToolTip": "SecureDocumentManagementSystem_project\\Views\\Documents\\Share.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T21:18:45.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
