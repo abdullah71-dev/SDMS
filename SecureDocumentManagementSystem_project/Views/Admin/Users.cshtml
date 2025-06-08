@@ -1,0 +1,61 @@
+﻿@model List<SecureDocumentManagementSystem.Models.User>
+
+@{
+    ViewBag.Title = "إدارة المستخدمين";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var currentUserId = Session["UserId"] != null ? (int)Session["UserId"] : 0;
+}
+
+<h2>المستخدمين</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>الاسم</th>
+            <th>البريد</th>
+            <th>مشرف؟</th>
+            <th>تحكم</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>
+                    @if (user.IsAdmin)
+                    {
+                        <span class="badge badge-success">نعم</span>
+                    }
+                    else
+                    {
+                        <span class="badge badge-secondary">لا</span>
+                    }
+                </td>
+                <td>
+                    @if (user.Id != currentUserId)
+                    {
+                        if (!user.IsAdmin)
+                        {
+                            <a href="@Url.Action("MakeAdmin", "Admin", new { id = user.Id })" class="btn btn-sm btn-success">ترقية لمشرف</a>
+                        }
+                        else
+                        {
+                            <a href="@Url.Action("RemoveAdmin", "Admin", new { id = user.Id })" class="btn btn-sm btn-warning">إلغاء الإشراف</a>
+                        }
+
+                        <a href="@Url.Action("DeleteUser", "Admin", new { id = user.Id })" class="btn btn-sm btn-danger ml-2"
+                           onclick="return confirm('هل أنت متأكد أنك تريد حذف هذا المستخدم؟');">
+                            حذف
+                        </a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">لا يمكنك حذف نفسك</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

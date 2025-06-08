@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "لوحة تحكم المشرف";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>لوحة تحكم المشرف</h2>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        <a href="@Url.Action("Users", "Admin")">إدارة المستخدمين</a>
+    </li>
+    <li class="list-group-item">
+        <a href="@Url.Action("Documents", "Admin")">إدارة المستندات</a>
+    </li>
+</ul>

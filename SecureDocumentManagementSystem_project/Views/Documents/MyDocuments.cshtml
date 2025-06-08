@@ -1,0 +1,60 @@
+﻿@model List<SecureDocumentManagementSystem.Models.Document>
+
+@{
+    ViewBag.Title = "مستنداتي";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>مستنداتي</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">لا يوجد مستندات حتى الآن.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>العنوان</th>
+                <th>التاريخ</th>
+                <th>تحميل</th>
+                <th>مشاركة</th>
+                <th> عرض </th>
+                <th> حذف</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var doc in Model)
+            {
+                <tr>
+                    <td>@doc.Title</td>
+                    <td>@doc.UploadedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>
+                        <a href="@Url.Action("Download", "Documents", new { id = doc.Id })" class="btn btn-sm btn-success">تحميل</a>
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Share", "Documents", new { id = doc.Id })" class="btn btn-sm btn-primary">مشاركة</a>
+                    </td>
+                    <td>
+                        <a href="@Url.Action("ViewDocument", "Documents", new { id = doc.Id })" class="btn btn-sm btn-secondary" target="_blank">عرض</a>
+                    </td>
+
+                    <td>
+                        <a href="@Url.Action("Delete", "Documents", new { id = doc.Id })"
+                           class="btn btn-sm btn-danger"
+                           onclick="return confirm('هل أنت متأكد أنك تريد حذف هذا المستند؟');">
+                            حذف
+                        </a>
+                    </td>
+
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+
+}

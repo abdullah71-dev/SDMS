@@ -1,0 +1,32 @@
+﻿@model List<SecureDocumentManagementSystem.Models.Document>
+
+<h2>الملفات التي تمت مشاركتها معك</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">لا توجد ملفات تمت مشاركتها معك بعد.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead class="thead-light">
+            <tr>
+                <th>العنوان</th>
+                <th>من</th>
+                <th>تحميل</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var doc in Model)
+            {
+                <tr>
+                    <td>@doc.Title</td>
+                    <td>@doc.Owner?.Username</td>
+                    <td>
+                        <a href="@Url.Action("Download", "Documents", new { id = doc.Id })" class="btn btn-sm btn-primary">تحميل</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

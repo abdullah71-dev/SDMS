@@ -1,0 +1,43 @@
+﻿@model List<SecureDocumentManagementSystem.Models.Document>
+
+@{
+    ViewBag.Title = "إدارة المستندات";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>إدارة المستندات</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">لا توجد مستندات بعد.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>العنوان</th>
+                <th>المالك</th>
+                <th>التاريخ</th>
+                <th>تحميل</th>
+                <th>حذف</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var doc in Model)
+            {
+                <tr>
+                    <td>@doc.Title</td>
+                    <td>@doc.Owner?.Username</td>
+                    <td>@doc.UploadedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>
+                        <a href="@Url.Action("Download", "Documents", new { id = doc.Id })" class="btn btn-sm btn-info">تحميل</a>
+                    </td>
+                    <td>
+                        <a href="@Url.Action("DeleteDocument", "Admin", new { id = doc.Id })" class="btn btn-sm btn-danger" onclick="return confirm('هل أنت متأكد من الحذف؟');">حذف</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
